@@ -20,7 +20,7 @@ Aplikasi ini berhasil mengimplementasikan 3 Tujuan Pembelajaran utama sesuai mod
 
 ### 1. Halaman Login (SharedPreferences)
 
-<img src="https://github.com/user-attachments/assets/337f5c02-2803-41e2-b14b-bff82a38a7a2" width="250" alt="Login Screen" />
+<img src="https://github.com/user-attachments/assets/1dd5d1b6-1c47-43d6-b3f3-8db1bf3f0c88" width="250" alt="Login Screen" />
 
 > Aplikasi meminta nama pengguna. Setelah login, data disimpan di SharedPreferences.
 
